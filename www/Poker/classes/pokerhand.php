@@ -1,0 +1,18 @@
+<?php
+
+
+Class PokerHand{
+
+
+
+
+
+
+}
+
+
+
+
+
+
+?>
